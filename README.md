@@ -1,3 +1,3 @@
-Étudiant en troisième année de licence Informatique à l’Université de Perpignan Via Domitia (UPVD), je m’intéresse actuellement à : \n
+🎓 Étudiant en troisième année de licence Informatique à l’Université de Perpignan Via Domitia (UPVD)
 
-l’automatisation des workflows
+je me passionne actuellement pour l’automatisation des workflows, afin d’optimiser les processus et gagner en efficacité.
