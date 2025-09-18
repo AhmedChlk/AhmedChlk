@@ -1,5 +1,7 @@
-# 💫 About Me:
-Étudiant en deuxième année d’informatique à l’Université de Perpignan Via Domitia (UPVD)<br> je me concentre actuellement sur : <br>    -  l’apprentissage approfondi du Shell <br>    - consolidation de mes connaissances en Algorithmique
+💫 À propos de moi
+Étudiant en troisième année de licence Informatique à l’Université de Perpignan Via Domitia (UPVD), je m’intéresse actuellement à :
+
+l’automatisation des workflows
 
 
 # 💻 Tech Stack:
